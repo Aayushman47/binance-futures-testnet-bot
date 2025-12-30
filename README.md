@@ -283,7 +283,13 @@ Combines take-profit and stop-loss logic so only one outcome executes.
 * The application avoids crashes caused by delayed testnet responses
 
 
+## Sample Outputs
 
+### CLI Output
+![CLI Output](screenshots/cli_output.png)
+
+### UI Output
+![UI Output](screenshots/ui_output.png)
 
 
 #### Author
