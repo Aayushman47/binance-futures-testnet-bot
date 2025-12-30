@@ -286,10 +286,10 @@ Combines take-profit and stop-loss logic so only one outcome executes.
 ## Sample Outputs
 
 ### CLI Output
-![CLI Output](screenshots/cli_output.png)
+![CLI Output](screenshots/Binance-trade-bot-cli-screenshot.png)
 
 ### UI Output
-![UI Output](screenshots/ui_output.png)
+![UI Output](screenshots/Binance-trade-bot-ui-screenshot.png)
 
 
 #### Author
