@@ -1,0 +1,43 @@
+2025-12-30 15:41:30,224 | INFO | BasicBot initialized
+2025-12-30 15:43:03,967 | INFO | BasicBot initialized
+2025-12-30 15:43:54,980 | INFO | BasicBot initialized
+2025-12-30 15:44:07,583 | INFO | Market order placed: {}
+2025-12-30 15:46:24,680 | INFO | BasicBot initialized
+2025-12-30 15:46:35,539 | INFO | Market order placed: {}
+2025-12-30 16:06:22,286 | INFO | BasicBot initialized
+2025-12-30 16:06:37,819 | ERROR | Market order failed: -1
+2025-12-30 16:10:57,013 | INFO | BasicBot initialized
+2025-12-30 16:11:09,104 | INFO | Leverage set: {}
+2025-12-30 16:11:09,768 | ERROR | Market order failed: -1
+2025-12-30 16:13:58,559 | INFO | BasicBot initialized
+2025-12-30 16:14:10,846 | INFO | Margin type set to ISOLATED for BTCUSDT
+2025-12-30 16:14:11,026 | INFO | Leverage set to 1x for BTCUSDT
+2025-12-30 16:14:12,223 | INFO | Market order placed: None
+2025-12-30 16:14:41,404 | INFO | BasicBot initialized
+2025-12-30 16:14:51,086 | INFO | Margin type set to ISOLATED for BTCUSDT
+2025-12-30 16:14:51,567 | INFO | Leverage set to 1x for BTCUSDT
+2025-12-30 16:14:52,424 | INFO | Market order placed: None
+2025-12-30 16:20:11,643 | INFO | BasicBot initialized
+2025-12-30 16:20:56,221 | INFO | BasicBot initialized
+2025-12-30 16:21:06,133 | INFO | Margin type set to ISOLATED for BTCUSDT
+2025-12-30 16:21:06,311 | INFO | Leverage set to 1x for BTCUSDT
+2025-12-30 16:21:09,110 | INFO | Market order placed: None
+2025-12-30 16:23:09,195 | INFO | BasicBot initialized
+2025-12-30 16:23:20,177 | ERROR | Market order failed: API Secret required for private endpoints
+2025-12-30 16:23:51,936 | INFO | BasicBot initialized
+2025-12-30 16:24:00,927 | INFO | Margin type set to ISOLATED for BTCUSDT
+2025-12-30 16:24:01,105 | INFO | Leverage set to 1x for BTCUSDT
+2025-12-30 16:24:03,610 | INFO | Market order placed: None
+2025-12-30 21:36:42,389 | INFO | BasicBot initialized
+2025-12-30 21:36:59,080 | INFO | Margin type set to ISOLATED for BTCUSDT
+2025-12-30 21:36:59,259 | INFO | Leverage set to 1x for BTCUSDT
+2025-12-30 21:38:38,618 | INFO | BasicBot initialized
+2025-12-30 21:39:54,260 | INFO | BasicBot initialized
+2025-12-30 21:40:14,667 | INFO | Margin type set to ISOLATED for BTCUSDT
+2025-12-30 21:40:14,852 | INFO | Leverage set to 2x for BTCUSDT
+2025-12-30 22:28:35,040 | INFO | BasicBot initialized
+2025-12-30 22:28:53,324 | INFO | Margin type set to ISOLATED for BTCUSDT
+2025-12-30 22:28:53,517 | INFO | Leverage set to 1x for BTCUSDT
+2025-12-30 22:37:30,024 | INFO | BasicBot initialized
+2025-12-30 22:37:42,888 | INFO | Margin type set to ISOLATED for BTCUSDT
+2025-12-30 22:37:43,076 | INFO | Leverage set to 1x for BTCUSDT
